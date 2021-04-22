@@ -25,6 +25,9 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## API (GET data)
+
+http://localhost:3001/search
 
 ## Support
 
